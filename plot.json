@@ -1,0 +1,22 @@
+{
+    "OpenEthereum//v3.3.5-stable/x86_64-linux-musl/rustc1.59.0": {
+        "Txs in last block": 0.7651057243347168,
+        "Tx traces in last block": 0.6875860691070557,
+        "Txs in last year block": 0.45098042488098145,
+        "Tx traces in last year block": 0.32709431648254395,
+        "Erc20 transfers in last \n500 blocks": 44.76236295700073,
+        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)": 2.3690786361694336,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days) - 5 traces": 25.865114212036133,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month) - 24 traces": 21.945632457733154
+    },
+    "erigon/2022.04.2/linux-amd64/go1.17.9": {
+        "Txs in last block": 0.7000017166137695,
+        "Tx traces in last block": 25.02322793006897,
+        "Txs in last year block": 0.28452277183532715,
+        "Tx traces in last year block": 11.101696729660034,
+        "Erc20 transfers in last \n500 blocks": 51.95770621299744,
+        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)": 70.65591716766357,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days) - 5 traces": 9.714317083358765,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month) - 24 traces": 32.47979545593262
+    }
+}
