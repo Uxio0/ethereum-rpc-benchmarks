@@ -173,7 +173,7 @@ def perform_benchmark():
             )
 
         with node_timer.get_timer(
-            "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month)\n24 traces"
+            "Traces for Gnosis Safe v1.1.1 \nfirst 250,000 blocks (1.5 months)\n278 traces"
         ) as timer:
             # 0x34CfAC646f301356fAa8B21e94227e3583Fe3F5F was deployed on 9084503
             from_block = 9084503
@@ -181,7 +181,7 @@ def perform_benchmark():
                 len(
                     ethereum_client.parity.trace_filter(
                         from_block=from_block,
-                        to_block=from_block + 200_000,
+                        to_block=from_block + 250_000,
                         to_address=["0x34CfAC646f301356fAa8B21e94227e3583Fe3F5F"],
                     )
                 )
