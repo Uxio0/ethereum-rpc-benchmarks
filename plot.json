@@ -1,22 +1,22 @@
 {
     "OpenEthereum//v3.3.5-stable/x86_64-linux-musl/rustc1.59.0": {
-        "Txs in last block": 0.7651057243347168,
-        "Tx traces in last block": 0.6875860691070557,
-        "Txs in last year block": 0.45098042488098145,
-        "Tx traces in last year block": 0.32709431648254395,
-        "Erc20 transfers in last \n500 blocks": 44.76236295700073,
-        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)": 2.3690786361694336,
-        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days) - 5 traces": 25.865114212036133,
-        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month) - 24 traces": 21.945632457733154
+        "Txs in last block": 1.207658052444458,
+        "Tx traces in last block": 0.8657128810882568,
+        "Txs in last year block": 0.643927812576294,
+        "Tx traces in last year block": 0.2868661880493164,
+        "Erc20 transfers in last \n500 blocks - 110631 events": 39.63134002685547,
+        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)\n304 traces": 4.5586676597595215,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days)\n5 traces": 12.930533647537231,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month)\n24 traces": 19.742262840270996
     },
     "erigon/2022.04.2/linux-amd64/go1.17.9": {
-        "Txs in last block": 0.7000017166137695,
-        "Tx traces in last block": 25.02322793006897,
-        "Txs in last year block": 0.28452277183532715,
-        "Tx traces in last year block": 11.101696729660034,
-        "Erc20 transfers in last \n500 blocks": 51.95770621299744,
-        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)": 70.65591716766357,
-        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days) - 5 traces": 9.714317083358765,
-        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month) - 24 traces": 32.47979545593262
+        "Txs in last block": 1.110015630722046,
+        "Tx traces in last block": 52.69083619117737,
+        "Txs in last year block": 0.3974575996398926,
+        "Tx traces in last year block": 13.8366539478302,
+        "Erc20 transfers in last \n500 blocks - 110631 events": 39.15741968154907,
+        "Traces for Gnosis Safe v1.1.1 \nlast 200 blocks (30 minutes)\n304 traces": 30.214590072631836,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 100,000 blocks (17 days)\n5 traces": 8.200499296188354,
+        "Traces for Gnosis Safe v1.1.1 \nfirst 200,000 blocks (1 month)\n24 traces": 6.602309942245483
     }
 }
